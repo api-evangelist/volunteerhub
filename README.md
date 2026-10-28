@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VolunteerHub is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://volunteerhub.com/
+VolunteerHub provides a cloud‑based platform that helps nonprofit organizations recruit, schedule, and manage volunteers. It offers tools for volunteer recruitment, event scheduling, hour tracking, database management, fundraising, liability waivers, rewards, and comprehensive reporting, enabling organizations to streamline operations and increase community impact.
+
+**Areas:** Volunteer Management · Nonprofit · Scheduling · Recruitment · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://volunteerhub.com/)
+- [Getting started](https://academy.volunteerhub.com/courses/volunteerhub-quickstart-course/lectures/51597735)
+- [Pricing](https://volunteerhub.com/pricing)
+- [Support](https://support.volunteerhub.com/support/home)
+- [Blog](https://volunteerhub.com/blog)
+- [Terms of service](https://volunteerhub.com/terms-of-use)
+- [Privacy policy](https://volunteerhub.com/privacy-policy)
+- [GitHub](https://github.com/volunteerhub)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/volunteerhub/](https://apis.io/providers/volunteerhub/).
